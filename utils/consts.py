@@ -1,0 +1,5 @@
+LC_DATA_PATH = "data/lc_data.csv"
+LP_DATA_PATH = "data/lp_data.csv"
+LCLP_DATA_PATH = "data/lclp_data.csv"
+LOAN_PATH = "data/loan.csv"
+BOXPLOT_PATH = "images/boxplot.png"
